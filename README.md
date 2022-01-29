@@ -6,6 +6,5 @@ Find the right restaurant for anything using this comprehensive and intuitive se
 Discover & Find. Narrow down your search with dozens of filters including neighborhood, cuisine, price, and rating. Get a feel for the restaurant—view photos, menus, and reviews from diners like you!
 
 
-
 ![Screenshot](search.png)
 ![Screenshot](detail.png)
